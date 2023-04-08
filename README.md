@@ -114,3 +114,13 @@ else {
  window.location = "bad.htm";
 }
 </script>
+
+         
+         
+         
+         
+         
+         
+  google  youtube   how to create a login system in javascript
+         https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwieoq713Jj-AhVtKFkFHSWDD_IQz40FegQIFxA2&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DUAu7cMuu0BI&usg=AOvVaw060ODb-Pt_smfEOl7dHjHe 
+         
